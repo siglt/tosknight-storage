@@ -1,0 +1,631 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta content="text/html;charset=utf-8" http-equiv="Content-Type" />
+<meta content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no" name="viewport" />
+<meta http-equiv="X-UA-Compatible" content="IE=edge,Chrome=1" />
+<meta name="renderer" content="webkit" />
+<title>WeGene 服务协议</title>
+<meta name="keywords" content="WeGene 服务协议" />
+<meta name="description" content="WeGene 服务协议"  />
+<base href="https://www.wegene.com/" /><!--[if IE]></base><![endif]-->
+<link href="https://www.wegene.com/static/dist/img/favicon.ico?v=201711101" rel="shortcut icon" type="image/x-icon" />
+
+<link rel="stylesheet" type="text/css" href="https://www.wegene.com/static/dist/css/bootstrap.css?v=201711101" />
+<link rel="stylesheet" type="text/css" href="https://www.wegene.com/static/dist/css/icon.css?v=201711101" />
+<link rel="stylesheet" type="text/css" href="https://www.wegene.com/static/dist/css/all.css?v=201711101" />
+
+<link href="https://www.wegene.com/static/js/plug_module/style.css?v=201711101" rel="stylesheet" type="text/css" />
+
+<link rel="stylesheet" type="text/css" href="https://www.wegene.com/static/dist/css/responsive.css?v=201711101" />
+
+<script type="text/javascript">
+	var _2AECD9911D094EDD31B6E55F26F1AD99="";
+	var G_POST_HASH=_2AECD9911D094EDD31B6E55F26F1AD99;
+	var G_INDEX_SCRIPT = "";
+	var G_SITE_NAME = "WeGene - 个人基因组检测与分析平台";
+	var G_BASE_URL = "https://www.wegene.com";
+	var G_STATIC_URL = "https://www.wegene.com/static";
+	var G_UPLOAD_URL = "https://wegene-upload-prod.oss-cn-hangzhou.aliyuncs.com";
+	var G_USER_ID = "";
+	var G_MOBILE_VALID = "";
+
+	var G_UPLOAD_ENABLE = "N";
+	var G_CAN_CREATE_TOPIC = "";
+
+	
+	var G_RESEARCH = '';
+</script>
+<script src="https://www.wegene.com/static/js/jquery.2.js?v=201711101" type="text/javascript"></script>
+<script src="https://www.wegene.com/static/js/jquery.form.js?v=201711101" type="text/javascript"></script>
+<script src="https://www.wegene.com/static/js/plug_module/plug-in_module.js?v=201711101" type="text/javascript"></script>
+<script src="https://www.wegene.com/static/js/aws.js?v=201711101" type="text/javascript"></script>
+<script src="https://www.wegene.com/static/js/aw_template.js?v=201711101" type="text/javascript"></script>
+<script src="https://www.wegene.com/static/js/app.js?v=201711101" type="text/javascript"></script>
+<!--[if lte IE 8]>
+	<script type="text/javascript" src="https://www.wegene.com/static/js/respond.js"></script>
+<![endif]-->
+<script type="text/javascript">
+// Cookie State Check
+$(document).ready(function () {
+	if (navigator.cookieEnabled)
+	{
+		if (!$.cookie('WEGENE_BOOTSTRAP_COOKIE_TEST'))
+		{
+			$.cookie('WEGENE_BOOTSTRAP_COOKIE_TEST', 1, { path: '/' });
+		}
+
+		if (!$.cookie('WEGENE_BOOTSTRAP_COOKIE_TEST'))
+		{
+			$('#disabled-cookie').show();
+		}
+
+		$.removeCookie('WEGENE_BOOTSTRAP_COOKIE_TEST', { path: '/' });
+	}
+	else
+	{
+		$('#disabled-cookie').show();
+	}
+});
+</script>
+</head>
+<noscript unselectable="on" id="noscript">
+    <div class="disabled-js text-center">
+    	<div class="container">
+    		<div class="col-md-12">
+       			<p>使用 WeGene 需要启用 JavaScript, 请启用后刷新页面获得更好的体验</p>
+    		</div>
+    	</div>
+    </div>
+</noscript>
+
+<body>
+	<div id="app" class="">
+	
+
+	
+	
+	<!--header -->
+	<div class="header  ">
+		<div class="container">
+			<div class="row">
+				<div class="col-sm-12">
+					<a href="" class="logo pull-left"><img src="https://www.wegene.com/static/dist/img/logo.svg" width="190" height="30" /></a>
+
+										<!-- 用户栏 -->
+					<div class="aw-user-nav  active hidden-xs hidden-sm">
+						<!-- 登录&注册栏 -->
+													<a  href="https://www.wegene.com/account/login/">登录</a> /
+							<a  href="https://www.wegene.com/account/register/">注册</a>
+												<!-- end 登录&注册栏 -->
+					</div>
+					<!-- end 用户栏 -->
+					
+					<!-- 搜索框 -->
+										<!-- end 搜索框 -->
+
+					<div class="aw-top-nav navbar ">
+						<div class="navbar-header">
+					    	<button class="navbar-toggle">
+					      		<i class="icon icon-bar"></i>
+					    	</button>
+					    </div>
+						<nav class="hidden-xs hidden-sm">
+					    	<ul class="nav navbar-nav">
+					    							    										<li>
+									<a  href="https://www.wegene.com/page/access_to_report">如何生成报告</a>
+								</li>
+								<li data-toggle="demo">
+									<a href="javascript:;">示例报告</a>
+								</li>
+								<li>
+									<a  href="https://www.wegene.com/science/">科学研究</a>
+								</li>
+																								<li class="community "><a data-url="explore/?category=1">社区</a></li>
+								<li data-toggle="buy" >
+									<a  href="https://www.wegene.com/buy/">购买</a>
+								</li>
+																<li >
+									<a  href="https://www.wegene.com/invoice/">订单</a>
+								</li>
+																						    </ul>
+					    </nav>
+					    <div class="side-nav">
+					    	<ul>
+					    		<li>
+					    			<i class="icon icon-delete auto-close"></i>
+					    		</li>
+					    		<li>
+					    			<dl>
+					    				<dt><a href="">首页</a></dt>
+					    			</dl>
+					    		</li>
+					    							    		<li>
+					    			<dl>
+					    				<dt><a  href="https://www.wegene.com/page/access_to_report">如何生成报告</a></dt>
+					    			</dl>
+					    		</li>
+					    		<li>
+					    			<dl>
+					    				<dt>
+					    					<a>示例报告 <i class="icon icon-down pull-right"></i></a>
+					    				</dt>
+					    				<dd class="hide">
+						    				<ol>
+						    					<li>
+						    						<a  href="https://www.wegene.com/demo/male/">男性</a>
+						    					</li>
+						    					<li>
+						    						<a  href="https://www.wegene.com/demo/female/">女性</a>
+						    					</li>
+						    				</ol>
+						    			</dd>
+					    			</dl>
+					    		</li>
+									<li>
+					    			<dl>
+					    				<dt>
+					    					<a  href="https://www.wegene.com/science/">科学研究</a>
+					    				</dt>
+					    			</dl>
+					    		</li>
+					    							    							    		<li class="community">
+					    			<dl>
+					    				<dt><a data-url="explore/?category=1">社区</a></dt>
+					    			</dl>
+					    		</li>
+					    		<li>
+					    			<dl>
+					    				<dt><a>购买 <i class="icon icon-down pull-right"></i></a></dt>
+					    				<dd class="hide">
+					    					<ol>
+					    						<li>
+													<a  href="https://www.wegene.com/buy/">
+														 WeGene 检测套件
+													</a>
+												</li>
+												<li>
+													<a  href="https://www.wegene.com/shop/item/4">
+														全基因组测序套件
+													</a>
+												</li>
+					    					</ol>
+					    				</dd>
+					    			</dl>
+					    		</li>
+					    		<li>
+					    			<dl>
+					    				<dt><a  href="https://www.wegene.com/invoice/">订单</a></dt>
+					    			</dl>
+					    		</li>
+					    	</ul>
+					    	<div class="bg"></div>
+					    </div>
+					</div>
+
+					<div class="aw-manage-bar">
+						<div class="navbar-header">
+							<button class="navbar-toggle">
+								<i class="icon icon-user"></i>
+							</button>
+						</div>
+						<div class="side-nav">
+					    	<ul>
+					    		<li class="text-right">
+					    			<i class="icon icon-delete pull-right auto-close"></i>
+					    		</li>
+					    							    										<li>
+					    			<dl>
+					    				<dt>
+					    					<a>我的账号</a>
+					    				</dt>
+					    				<dd>
+					    					<a  href="https://www.wegene.com/account/login/">登录</a>
+					    				</dd>
+					    				<dd>
+											<a  href="https://www.wegene.com/account/register/">注册</a>
+					    				</dd>
+					    			</dl>
+					    		</li>
+																					    	</ul>
+					    	<div class="bg"></div>
+					    </div>
+					</div>
+				</div>
+			</div>
+		</div>
+		<div class="nav-toggle">
+			<div class="toggle" data-toggle="research">
+				<ul>
+					<li>
+						<a  href="https://www.wegene.com/lab/">
+							<i class="icon icon-research-4 circle yellow"></i> 研究所
+						</a>
+					</li>
+					<li>
+						<a  href="https://www.wegene.com/crowdsourcing/">
+							<i class="icon icon-reader circle cyan"></i> 微解读
+						</a>
+					</li>
+					<li>
+						<a  href="https://www.wegene.com/surname/">
+							<i class="icon icon-signup circle wegene-blue"></i> 姓氏溯源
+						</a>
+					</li>
+					<li>
+						<a  href="https://www.wegene.com/family/">
+							<i class="icon icon-family circle blue-dark"></i> 家族基因
+						</a>
+					</li>
+					<li>
+						<a  href="https://www.wegene.com/relationship/">
+							<i class="icon icon-relation circle red"></i> 基因关系
+						</a>
+					</li>
+					<li>
+						<a  href="https://www.wegene.com/report/raw/">
+							<i class="icon icon-gene-2 circle blue"></i> 原始数据
+						</a>
+					</li>
+				</ul>
+			</div>
+			<div class="toggle" data-toggle="demo">
+				<ul>
+					<li>
+						<a  href="https://www.wegene.com/demo/male/">
+							<i class="icon icon-user circle blue"></i> 男性
+						</a>
+					</li>
+					<li>
+						<a  href="https://www.wegene.com/demo/female/">
+							<i class="icon icon-user circle red"></i> 女性
+						</a>
+					</li>
+				</ul>
+			</div>
+			<div class="toggle" data-toggle="buy">
+				<ul>
+					<li>
+						<a  href="https://www.wegene.com/buy/">
+							 WeGene 检测套件
+						</a>
+					</li>
+					<li>
+						<a  href="https://www.wegene.com/shop/item/4">
+							全基因组测序套件
+						</a>
+					</li>
+				</ul>
+			</div>
+		</div>
+	</div>
+	<!-- end header -->
+
+	<div class="aw-tips-bar hide" id="disabled-cookie">
+		<div class="container text-center">
+			<div class="row">
+				<div class="col-md-12">
+					使用 WeGene 需要启用 Cookies, 请启用后刷新页面获得更好的体验
+				</div>
+			</div>
+		</div>
+	</div>
+
+	
+	
+<style>
+.tos .mod-body h3{margin-top:40px;font-size: 20px;color: #4fb1f7;}
+.tos .mod-body p{margin:0 0 20px;}
+</style>
+
+<div class="aw-container-wrap">
+	<div class="container">
+		<div class="row">
+			<div class="col-sm-8 col-sm-offset-2">
+				<div class="mod tos margin-top-30">
+					<div class="mod-head text-center">
+						<h2>
+							WeGene 服务协议
+						</h2>
+					</div>
+					<div class="mod-body">
+						<h3>定义</h3>
+						<p>
+							在本条款中，“您”即指用户，下文中更多地用“您”表述。<br/>
+							“WeGene”, 即为微基因公司方——深圳市早知道科技有限公司，包含整个检测、服务、技术相关团队。<br/>
+							“服务”，指 WeGene 提供的产品、服务网址、报告解读，内容包括但不限于：文本、图表、其他内容和信息，以及我们对其所做的任何版本以及内容更新。<br/>
+							“个人信息”，是对于个体用户有识别度的信息，在这里包含：用户注册信息、个人基因组信息、报告内容、网络行为信息。
+						</p>
+						<h3>接受条款</h3>
+						<p>
+							接受我们的服务前，您需要接受和同意全部的服务条款；一旦接受服务，即为已经接受本协议的全部内容。请您完整阅读或知晓本协议后，接受条款方可接受服务。未满18岁的未成年人需在监护人的允许和知情下进行该服务项目。未来 WeGene 新的服务项目，也会由相应新的条款来进行制约。
+						</p>
+						<p>
+							接受条款的方式：请在购买页面弹出的相应页面，点击“接受”。同时，您也可以在 WeGene 的官网浏览该服务协议，此外我们也会随样本采集套装寄出一份纸质版本的知情同意书，以方便您阅读。
+						</p>
+
+						<p>
+							您需自愿签署本服务协议，中途也可按照协议中的规定申请退出。在遵守本协议的条件下，我们保护您的安全、健康以及应具有的权益。
+						</p>
+						<h3>服务条件</h3>
+						<p>
+							有能力对自己的行为负责，18岁以上的用户，在知悉的情况下，愿意签署服务协议和知情同意书；<br/>
+							未满18岁的用户，须要在法定监护人的同意下和知情下签订相关协议。责任人需要对用户在 WeGene 所提供的全部信息和言论负责。以及通过签署本协议，同意并签署相应的知情同意书。
+						</p>
+						<h3>服务范围</h3>
+						<p>
+							随着服务项目的不断发展和变更，我们没有义务事先通知您将会产生的更新或项目版本。您有权力在任何时候停止该服务而不需特别通知我们，除非您要求关闭在 WeGene 的账户。对于任何超出该协议或相关条款服务范围的事项，深圳市早知道科技有限公司不予以负责。
+						</p>
+						<p>
+							关于接受该服务所需具备的网络资源，需要用户具有可上网的途径以及适用的相关设备。
+						</p>
+						<h3>有关风险</h3>
+						<p>
+							我们不能保证提供全部完整的信息，随着科研的进步和发展，更多信息您可能需要主动通过新版的 WeGene 服务，或是相关医生、遗传咨询师或其他健康护理机构获得。WeGene 鼓励您与相关医生或遗传咨询师进行交流，可以帮助您更好地理解相关结果，以及判断结果对于个人的准确性和适合度。对于健康风险的心理顾虑，以及可能产生的心理问题或其他亚风险，您可以提早咨询或是做相关的检测。
+						</p>
+						<p>
+							WeGene 的检测结果可能出现您未预期到的内容，例如：可能高于平均水平的疾病风险，这有可能会在心理上及生活上对您产生一定的困扰，或对您的健康产生一定影响，甚至产生社会、法律、经济上的相关影响。
+						</p>
+						<p>
+							关于样本失败的处理，如果您的样本出现提取 DNA 量不足或是不符合实验检测要求，我们会寄出新的样本采集管供您再次采样，如果您拒绝，WeGene 会扣除运费和检测套件耗材费用，并退还其他金额，并且我们拒绝再次为您提供服务；如您接受，请严格按照采样说明进行。违背此协议的用户，再次购买该产品服务，并提供了不可用的样本，WeGene 有权拒绝任何处理和退款。如因未知因素，产生数据不可用或不准确（称为“误差”），由于这种可能性是预知的，用户无权因误差要求退款。
+						</p>
+						<p>
+							疾病风险与疾病的关系可能不是直接的，环境、心理状态、饮食等多种因素均可导致疾病的发生或发展，或在未来更多更深入的研究结果，也有可能带来与目前基因研究的现状不同甚至可能会产生冲突的结果。
+						</p>
+						<p>
+							对于您向他人进行基因信息的分享，应保持慎重，这可能会在保险或是职业雇佣方面影响您的利益。有关问题可以咨询相关律师，WeGene 提醒您注意保护自己的基因信息。个人基因信息在医疗上可以提供一定的建议或根据，但不完全等同于专业的医疗建议。
+						</p>
+							对于儿童（< 3周岁）和老年人（> 65周岁）数据的采集失败率会相应升高，这是因为等量的唾液样本中所含的口腔脱落细胞数目可能不足以提供符合检测要求的 DNA 量导致，对于这类用户采样失败的情况，我们可以提供其他特殊途径来解决（例如：采用口腔拭子、唾液收集刷、唾液采样棒等其他辅助采样器材），具体问题及任何疑问请联系我们处理。
+						</p>
+						<h3>隐私声明</h3>
+						<p>
+							使用该服务之前，您需要接受我们关于隐私声明的协议。我们会在样本采集盒中提供纸质版包含该声明的《知情同意书》，您可以签署后同样本一起寄回给 WeGene；或通过购买页面的服务协议中，点击“接受”服务协议，我们的服务才可以执行。即为一旦服务执行，表明您已经接受相关的服务协议。
+						</p>
+						<p>
+							您同意我们的工作人员对于系统的常规维护、管理和调试。另外，对于基因信息和报告的汇总，我们可将其用于科研机构、科研文章的发表、临床治疗方法的改善、药物的研发、诊断监测设备的开发或相关的第三方机构。但未经过您的同意或特殊的法律情况下，WeGene 不会将您的个人遗传信息向任何的第三方机构公开。
+						</p>
+						<p>
+							我们有保护您隐私的义务，同时您也知晓如果在司法、法规要求的情况下，我们有权提供您的个人信息，在这种情况下，WeGene 也会做出相应通知。您知晓数据信息能够以各种形式在网络间传播，并且会对于不同设备环境作出调整。除意外出现的网络攻击等情况外，WeGene 会严格限制网络访问。
+						</p>
+						<h3>用户知悉</h3>
+						<p>
+							明白 WeGene 的用途，是用于为大众提供基于遗传科学和生物信息计算的服务产品，并可能将这些数据用于支持科学研究、医疗研发、相关科技产品的开发等。而其结果并不代表任何诊断或医疗结果。
+						</p>
+						<p>
+							用户需要接受以下样本要求：通过我们提供或指定的器材和方式进行个人唾液样本的采集。本人参与检测需保证提供的是本人的唾液样本。
+						</p>
+						<p>
+							年满18岁以上用户，或18岁以下用户的法定监护人接受本协议的全部条款内容。
+						</p>
+						<p>
+							服务地区范围：WeGene 向全世界所有拥有自己基因组数据的用户提供解读和后续服务。但由于各个国家和地区的法律差异，以及 WeGene 所在的中国大陆地区的法律限制，WeGene 只为中国大陆地区的用户提供检测服务，同时也只接受来自中国大陆的样品。除中国大陆以外的其他国家和地区的用户，如果想使用 WeGene 的检测服务，请关注 WeGene 网站的合作伙伴发展信息。
+						</p>
+						<p>
+							一旦您将唾液样本寄回至 WeGene，样本是不可返回的。我们有权对样本进行合理处理，并提供相应的服务。
+						</p>
+						<p>
+							WeGene 提供的基因解读报告，每条有对应的参考文献来源。当前的基因解读报告，只是代表一个可能性，并不等同于临床诊断结果。
+						</p>
+						<p>
+							账户安全对于保护您的隐私信息非常重要，如发生账号未经授权使用等安全问题，请立即联系 WeGene；如果因您个人未保管好而将账户信息泄漏，会很大程度上增大您隐私信息的风险，我们不予以负责。
+						</p>
+						<h3>用户责任</h3>
+						<p>
+							对于所提供样本产生的商业价值以及科研成果的所有权归深圳市早知道科技有限公司所有，而与个人用户无关。
+						</p>
+						<p>
+							如果您违背本协议中的条款，WeGene 也将有权力拒绝为您提供现阶段或是将来任何形式的服务，您也需要为公司所付出的劳动力、费用或所带来的任何损失负责。
+						</p>
+						<p>
+							您保证您所提供的信息的真实、即时、有效和完整性，如因您提供了在知情范围内的不真实信息，我们有权质疑并停止提供服务。您有义务对于在本网站注册的信息进行保密，如有意泄漏账户信息而对您个人或 WeGene 造成损失，我们不予以负责并有权对此提出相应赔偿。
+						</p>
+						<h3>购买途径</h3>
+						<p>
+							现阶段，WeGene 的销售渠道包括公司官网（www.wegene.com） 和经过授权的销售渠道。
+						</p>
+						<p>
+							如经过未授权途径购买产品服务的，我们不能保障完整提供各类检测服务。如通过其他渠道购买到无效产品，我们有权拒绝提供服务，并且不参与产品交易处理。
+						</p>
+						<h3>禁止转售服务</h3>
+						<p>
+							除经过 WeGene 官方授权过的合作方或推广活动外，您不得以任何形式转售我们的产品、服务、以及产品相关的任何内容，包括网站信息、内容设计、报告内容等。
+						</p>
+						<h3>账户关闭</h3>
+						<p>
+							WeGene，即深圳市早知道科技有限公司在以下情况下，可以与您终止服务协议：<br/>
+							1. 在法律法规的要求下终止；<br/>
+							2.您违反了服务协议或相关的协议；<br/>
+							3. 所授予的合作或代理机构停止为您提供服务；<br/>
+							4. 您所购买的服务项目 WeGene已经不再提供。<br/>
+						</p>
+						<p>
+							如果您出于任何个人原因，希望关闭 WeGene 的账户，请您通过邮件书面告知我们，并提交相应的申请陈述和说明，我们在和您确认后，会予以账户的关闭。联系邮箱：service@wegene.com
+						</p>
+					</div>							
+				</div>
+			</div>
+		</div>
+	</div>
+</div>
+
+<div class="footer ">
+	<div class="sitemap">
+		<div class="container">
+			<div class="row">
+				<div class="col-sm-12  hidden-xs">
+					<dl>
+						<dt>首页</dt>
+						<dd><a  href="https://www.wegene.com/buy/">购买</a></dd>
+						<dd><a  href="https://www.wegene.com/demo/male/">示例报告</a></dd>
+						<dd><a  href="https://www.wegene.com/tutorial/">什么是基因</a></dd>
+						<dd><a  href="https://www.wegene.com/page/access_to_report">如何生成报告</a></dd>
+						<dd><a  href="https://www.wegene.com/lab/">研究所</a></dd>
+						<dd><a  href="https://www.wegene.com/crowdsourcing/">微解读</a></dd>
+						<dd><a  href="https://www.wegene.com/explore/">社区</a></dd>
+					</dl>
+					<dl>
+						<dt>关于 WeGene</dt>
+						<dd><a  href="https://www.wegene.com/page/about">关于我们</a></dd>
+						<dd><a  href="https://www.wegene.com/news/">媒体新闻</a></dd>
+						<dd><a  href="https://www.wegene.com/page/irb">伦理委员会</a></dd>
+						<dd><a  href="https://www.wegene.com/page/privacy">隐私保护</a></dd>
+						<dd><a  href="https://www.wegene.com/career/">加入我们</a></dd>
+						<dd><a  href="https://www.wegene.com/page/tos">服务协议</a></dd>
+						<dd><a  href="https://www.wegene.com/page/price_protection">价格保护</a></dd>
+					</dl>
+					<dl>
+						<dt>帮助中心</dt>
+						<dd><a  href="https://www.wegene.com/help/#category=1">关于基因检测</a></dd>
+						<dd><a  href="https://www.wegene.com/help/#category=2&sub_category=1">账户购买</a></dd>
+						<dd><a  href="https://www.wegene.com/help/#category=3&sub_category=1">报告解读</a></dd>
+						<dd><a  href="https://www.wegene.com/help/#category=4">隐私安全</a></dd>
+						<dd><a  href="https://www.wegene.com/help/#category=5">关于第三方数据</a></dd>
+						<dd><a  href="https://www.wegene.com/help/#category=6">社区分享</a></dd>
+					</dl>
+					<dl>
+						<dt>开放平台</dt>
+						<dd><a href="https://api.wegene.com" target="_blank">申请成为开发者</a></dd>
+						<dd><a href="https://api.wegene.com/docs/" target="_blank">开发文档</a></dd>
+					</dl>
+					<dl>
+						<dt>客服微信公众号</dt>
+						<dd>
+							<img class="margin-top-10" width="110" src="https://www.wegene.com/static/dist/img/index-qrcode.png" />
+						</dd>
+					</dl>
+					<dl>
+						<dt>联系我们</dt>
+						<dd>客服邮箱：<span class="color-blue">service@wegene.com</span></dd>
+						<dd>合作咨询：<span class="color-blue">partner@wegene.com</span></dd>
+						<dd>
+							<a href="http://weibo.com/wegene" target="_blank"><i class="icon icon-weibo-2"></i></a>
+							<a href="https://www.facebook.com/groups/241172406246126/" target="_blank"><i class="icon icon-facebook"></i></a>
+						</dd>
+					</dl>
+				</div>
+				<div class="col-sm-12 visible-xs text-center">
+					<a  href="https://www.wegene.com/page/about">关于我们</a> •
+					<a  href="https://www.wegene.com/page/irb">伦理委员会</a> •
+					<a  href="https://www.wegene.com/page/about#隐私保护">隐私保护</a> •
+					<a  href="https://www.wegene.com/page/tos">服务协议</a> •
+					<a  href="https://www.wegene.com/help/">帮助中心</a><br/>
+					<a  href="https://www.wegene.com/career/">加入我们</a> •
+					<a href="https://api.wegene.com">开放平台</a>
+					<hr class="margin-top-20 margin-bottom-20" />
+					<p>
+						客服邮箱：<span class="color-blue">service@wegene.com</span>
+						<br/>微信公众号：<span class="color-blue">WeGeneService</span>
+					</p>
+					<div class="text-center margin-top-20">
+						<img width="50" src="https://www.wegene.com/static/dist/img/index-qrcode.png" />
+						<a href="http://weibo.com/wegene" target="_blank"><i class="icon icon-weibo-2"></i></a>
+						<a href="https://www.facebook.com/groups/241172406246126/" target="_blank"><i class="icon icon-facebook"></i></a>
+					</div>
+				</div>
+			</div>
+		</div>
+	</div>
+	<div class="copyright">
+		<div class="container">
+			<div class="row">
+				<div class="col-md-12">
+					<hr />
+					<span class="text-left pull-left">
+						&copy; 2017 WeGene. All Rights Reserved &nbsp; <br class="visible-xs" /> 粤ICP备15012185号					</span>
+					<span class="text-right pull-right languages">
+						<a href="https://www.wegene.com" class="active"><img src="https://www.wegene.com/static/dist/img/china@2x.png" width="16" /> <b class="hidden-xs">中文</b></a> <a href="https://www.wegene.com/en"><img src="https://www.wegene.com/static/dist/img/usa@2x.png"  width="16" /> <b class="hidden-xs">English</b></a>
+					</span>
+				</div>
+			</div>
+		</div>
+	</div>
+</div>
+
+
+<a class="aw-back-top hidden-xs" href="javascript:;" onclick="$.scrollTo(1, 600, {queue:true});"><i class="icon icon-up"></i></a>
+
+<!-- DO NOT REMOVE -->
+<div id="aw-ajax-box" class="aw-ajax-box"></div>
+
+<!-- JavaScript 模板引用 -->
+<div id="template-holder">
+	<script type="text/javascript">
+	$(document).ready(function() {
+		$.get('https://www.wegene.com/static/template/template.tpl.htm?v=201711101', function(data) {
+			$('#template-holder').html(data);
+		});
+	});
+	</script>
+</div>
+
+<!-- 浏览器不支持 -->
+<script type="text/template" id="template-browserNotSupport">
+	<div class="mod">
+		<div class="mod-head">
+			<img src="https://www.wegene.com/static/dist/img/logo.svg" width="190" />
+		</div>
+		<div class="mod-body">
+			<h2>您的浏览器版本较低, 请升级浏览器。</h2>
+			<span>或下载以下浏览器</span>
+			<ul>
+				<li>
+					<a href="http://www.opera.com/zh-cn" target="_blank">
+						<img src="https://www.wegene.com/static/dist/img/opera.png" width="64"/>
+						Opera
+					</a>
+				</li>
+				<li>
+					<a href="http://www.firefox.com.cn/download/" target="_blank">
+						<img src="https://www.wegene.com/static/dist/img/firefox.png" width="64"/>
+						Firefox
+					</a>
+				</li>
+				<li>
+					<a href="http://www.google.cn/intl/zh-CN/chrome/browser/desktop/index.html" target="_blank">
+						<img src="https://www.wegene.com/static/dist/img/chrome.png" width="64"/>
+						Chrome
+					</a>
+				</li>
+			</ul>
+		</div>
+	</div>
+</script>
+<!-- end 浏览器不支持 -->
+
+<script type="text/javascript">
+var _hmt = _hmt || [];
+(function() {
+  var hm = document.createElement("script");
+  hm.src = "//hm.baidu.com/hm.js?3ce65b2e07e6fcd47243cdcdb5f2d02b";
+  var s = document.getElementsByTagName("script")[0]; 
+  s.parentNode.insertBefore(hm, s);
+})();
+</script>
+
+<script type='text/javascript'>
+      var _vds = _vds || [];
+      window._vds = _vds;
+      (function(){
+        _vds.push(['setAccountId', 'a8b79ac6da5a5179']);
+
+        if(G_USER_ID > 0){
+          _vds.push(['setCS1', 'wegene_uid', G_USER_ID]);
+        }
+
+        (function() {
+          var vds = document.createElement('script');
+          vds.type='text/javascript';
+          vds.async = true;
+          vds.src = ('https:' == document.location.protocol ? 'https://' : 'http://') + 'dn-growing.qbox.me/vds.js';
+          var s = document.getElementsByTagName('script')[0];
+          s.parentNode.insertBefore(vds, s);
+        })();
+      })();
+</script>
+<!-- Escape time: 0.054265975952148, www.wegene.com --><!-- / DO NOT REMOVE -->
+
+<!-- WECHAT API -->
+<!-- / WECHAT API -->
+
+</body>
+</html>
