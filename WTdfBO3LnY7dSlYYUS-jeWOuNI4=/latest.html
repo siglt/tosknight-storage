@@ -1,0 +1,93 @@
+
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+        <title>百度用户协议</title>
+        <style>
+
+        	*{margin:0px;padding:0px;font-size: 12px;line-height: 14px;font-weight: normal;color:#333333;list-style: none;font-family:Arial, "宋体";}
+        	a{text-decoration: underline;color: #0000cc;}
+        	.mod-header,
+        	.mod-bread-wrapper,
+        	.mod-useragreement,
+        	.mod-footer{
+        		width:960px;
+        		margin:0 auto;
+        	}
+        	.mod-header{
+        		padding:15px;
+        		height:55px;
+        	}
+
+        	.mod-bread{
+        		height:40px;
+        		border-top:1px solid #eeeeee;
+        		border-bottom:1px solid #eeeeee;
+        		background-color: #fafafa;
+        		box-shadow: 1px 1px 2px #f7f7f7;
+        	}
+        	.mod-bread .bread-left{
+        		text-indent: 2em;
+        		line-height: 40px;
+				font-size: 14px;
+				font-weight: bold;
+        	}
+
+			.mod-useragreement{
+				padding:20px 0px 16px 0px;
+				line-height: 22px;
+			}
+			.useragreement-content{
+				width:700px;
+				margin-bottom: 20px;
+				margin:0 auto;
+			}
+			.useragreement-content h5{
+				font-size: 14px;
+				font-weight: bold;
+				padding:1em 0px;
+			}
+			.useragreement-content h3,
+			.useragreement-content p,
+			.useragreement-content li{
+				line-height: 1.8em;
+			}
+			.useragreement-content li{
+				text-indent: 2em;
+			}
+			.mod-footer{
+				text-align: center;
+				color: #7a77c8;
+				margin: 40px auto;
+			}
+        </style>
+    </head>
+    <body>
+        <div class="mod-header grid-96">
+            <div class="logo">
+                <span><img alt="baidu" src="https://passport.baidu.com/img/logo.gif"></span>
+                <!--  <a href="http://www.baidu.com"><img alt="baidu" src="https://passport.baidu.com/img/logo.gif"></a> -->
+            </div>
+        </div>
+        <div class="mod-bread clearfix">
+            <div class="mod-bread-wrapper">
+                <div class="bread-left">
+                    百度用户协议
+                </div>
+            </div>
+        </div>
+        
+		<div class="mod-useragreement rid-96 useragreement-content" id="mod-agreement-text"></div>
+        <div class="mod-footer grid-96">
+            &copy;2010 Baidu <a href="https://www.baidu.com/duty/">使用百度前必读</a>
+        </div>
+
+        <script type="text/javascript" src="https://passport.baidu.com/export/agreement_pc.js"></script>
+        <script type="text/javascript">
+            var text = agreementText || ''
+        	document.getElementById('mod-agreement-text').innerHTML = text; 
+        </script>
+
+    </body>
+</html>
