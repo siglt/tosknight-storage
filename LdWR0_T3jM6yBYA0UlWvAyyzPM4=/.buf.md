@@ -1,46 +1,46 @@
   *   *   *   *   *   * 
 
-[](http://www.dji.com/cn/)
+[](https://www.dji.com/cn/)
 
-  * [消费级产品](http://www.dji.com/cn/products/consumer?site=brandsite&from=nav)
+  * [消费级产品](https://www.dji.com/cn/products/consumer?site=brandsite&from=nav)
 
 [御 Mavic 系列
 
 你口袋里的航拍摄影师
 
-](http://www.dji.com/cn/products/mavic?site=brandsite&from=nav)
+](https://www.dji.com/cn/products/mavic?site=brandsite&from=nav)
 
-    * [御 Mavic Pro 铂金版](http://www.dji.com/cn/mavic-pro-platinum?site=brandsite&from=nav)
-    * [御 Mavic Pro](http://www.dji.com/cn/mavic?site=brandsite&from=nav)
+    * [御 Mavic Pro 铂金版](https://www.dji.com/cn/mavic-pro-platinum?site=brandsite&from=nav)
+    * [御 Mavic Pro](https://www.dji.com/cn/mavic?site=brandsite&from=nav)
 
 [晓 Spark 系列
 
 小身型，大身手，一键记录生活点滴
 
-](http://www.dji.com/cn/products/spark?site=brandsite&from=nav)
+](https://www.dji.com/cn/products/spark?site=brandsite&from=nav)
 
-    * [晓 Spark](http://www.dji.com/cn/spark?site=brandsite&from=nav)
+    * [晓 Spark](https://www.dji.com/cn/spark?site=brandsite&from=nav)
 
 [精灵 Phantom 系列
 
 准专业级航拍影像系统
 
-](http://www.dji.com/cn/products/phantom?site=brandsite&from=nav)
+](https://www.dji.com/cn/products/phantom?site=brandsite&from=nav)
 
-    * [精灵 Phantom 4 Pro](http://www.dji.com/cn/phantom-4-pro?site=brandsite&from=nav)
-    * [精灵 Phantom 4 Advanced](http://www.dji.com/cn/phantom-4-adv?site=brandsite&from=nav)
-    * [精灵 Phantom 3 SE](http://www.dji.com/cn/phantom-3-se?site=brandsite&from=nav)
+    * [精灵 Phantom 4 Pro](https://www.dji.com/cn/phantom-4-pro?site=brandsite&from=nav)
+    * [精灵 Phantom 4 Advanced](https://www.dji.com/cn/phantom-4-adv?site=brandsite&from=nav)
+    * [精灵 Phantom 3 SE](https://www.dji.com/cn/phantom-3-se?site=brandsite&from=nav)
 
 [灵眸 Osmo 系列
 
 拍摄从此得心应手
 
-](http://www.dji.com/cn/products/osmo?site=brandsite&from=nav)
+](https://www.dji.com/cn/products/osmo?site=brandsite&from=nav)
 
-    * [灵眸 Osmo Mobile 手机云台](http://www.dji.com/cn/osmo-mobile?site=brandsite&from=nav)
-    * [灵眸 Osmo+](http://www.dji.com/cn/osmo-plus?site=brandsite&from=nav)
-    * [灵眸 Osmo](http://www.dji.com/cn/osmo?site=brandsite&from=nav)
-    * [灵眸 Osmo 配件](http://www.dji.com/cn/osmo-accessories?site=brandsite&from=nav)
+    * [灵眸 Osmo Mobile 手机云台](https://www.dji.com/cn/osmo-mobile?site=brandsite&from=nav)
+    * [灵眸 Osmo+](https://www.dji.com/cn/osmo-plus?site=brandsite&from=nav)
+    * [灵眸 Osmo](https://www.dji.com/cn/osmo?site=brandsite&from=nav)
+    * [灵眸 Osmo 配件](https://www.dji.com/cn/osmo-accessories?site=brandsite&from=nav)
 
 [配件
 
@@ -48,230 +48,230 @@
 
 ](javascript:;)
 
-    * [DJI 飞行眼镜](http://www.dji.com/cn/dji-goggles?site=brandsite&from=nav)
+    * [DJI 飞行眼镜](https://www.dji.com/cn/dji-goggles?site=brandsite&from=nav)
 
 [
 
 消费级无人机对比
 
-](http://www.dji.com/cn/products/compare-consumer-
+](https://www.dji.com/cn/products/compare-consumer-
 drones?site=brandsite&from=nav)[
 
 灵眸 OSMO 系列对比
 
-](http://www.dji.com/cn/products/compare-osmo?site=brandsite&from=nav)
+](https://www.dji.com/cn/products/compare-osmo?site=brandsite&from=nav)
 
-  * [专业级产品](http://www.dji.com/cn/products/professional?site=brandsite&from=nav)
+  * [专业级产品](https://www.dji.com/cn/products/professional?site=brandsite&from=nav)
 
 [集成系统
 
 专业影视拍摄，便捷高效演译
 
-](http://www.dji.com/cn/products/professional?site=brandsite&from=nav#integrated-
+](https://www.dji.com/cn/products/professional?site=brandsite&from=nav#integrated-
 system)
 
-    * [悟 Inspire 2](http://www.dji.com/cn/inspire-2?site=brandsite&from=nav)
-    * [灵眸 Osmo Pro/Raw](http://www.dji.com/cn/osmo-pro-and-raw?site=brandsite&from=nav)
+    * [悟 Inspire 2](https://www.dji.com/cn/inspire-2?site=brandsite&from=nav)
+    * [灵眸 Osmo Pro/Raw](https://www.dji.com/cn/osmo-pro-and-raw?site=brandsite&from=nav)
 
 [相机云台
 
 专业级三轴增稳云台相机
 
-](http://www.dji.com/cn/products/professional?site=brandsite&from=nav#camera-
+](https://www.dji.com/cn/products/professional?site=brandsite&from=nav#camera-
 gimbal)
 
-    * [禅思 Zenmuse X7](http://www.dji.com/cn/zenmuse-x7?site=brandsite&from=nav)
-    * [禅思 Zenmuse X5S](http://www.dji.com/cn/zenmuse-x5s?site=brandsite&from=nav)
-    * [禅思 Zenmuse X4S](http://www.dji.com/cn/zenmuse-x4s?site=brandsite&from=nav)
-    * [禅思 Zenmuse X5R](http://www.dji.com/cn/zenmuse-x5r?site=brandsite&from=nav)
-    * [禅思 Zenmuse X5](http://www.dji.com/cn/zenmuse-x5?site=brandsite&from=nav)
+    * [禅思 Zenmuse X7](https://www.dji.com/cn/zenmuse-x7?site=brandsite&from=nav)
+    * [禅思 Zenmuse X5S](https://www.dji.com/cn/zenmuse-x5s?site=brandsite&from=nav)
+    * [禅思 Zenmuse X4S](https://www.dji.com/cn/zenmuse-x4s?site=brandsite&from=nav)
+    * [禅思 Zenmuse X5R](https://www.dji.com/cn/zenmuse-x5r?site=brandsite&from=nav)
+    * [禅思 Zenmuse X5](https://www.dji.com/cn/zenmuse-x5?site=brandsite&from=nav)
 
 [摄像増稳系统
 
 不同的场景和装配，相同的稳定影像
 
-](http://www.dji.com/cn/products/professional?site=brandsite&from=nav#camera-
+](https://www.dji.com/cn/products/professional?site=brandsite&from=nav#camera-
 stabilizer)
 
-    * [如影 Ronin 2](http://www.dji.com/cn/ronin-2?site=brandsite&from=nav)
-    * [如影 Ronin-MX](http://www.dji.com/cn/ronin-mx?site=brandsite&from=nav)
-    * [如影 Ronin-M](http://www.dji.com/cn/ronin-m?site=brandsite&from=nav)
-    * [如影 Ronin ](http://www.dji.com/cn/ronin?site=brandsite&from=nav)
+    * [如影 Ronin 2](https://www.dji.com/cn/ronin-2?site=brandsite&from=nav)
+    * [如影 Ronin-MX](https://www.dji.com/cn/ronin-mx?site=brandsite&from=nav)
+    * [如影 Ronin-M](https://www.dji.com/cn/ronin-m?site=brandsite&from=nav)
+    * [如影 Ronin ](https://www.dji.com/cn/ronin?site=brandsite&from=nav)
 
 [专业配件
 
 享受更专业的拍摄体验
 
-](http://www.dji.com/cn/products/professional?site=brandsite&from=nav#professional-
+](https://www.dji.com/cn/products/professional?site=brandsite&from=nav#professional-
 accessories)
 
-    * [DJI 无线跟焦器](http://www.dji.com/cn/focus?site=brandsite&from=nav)
-    * [CrystalSky](http://www.dji.com/cn/crystalsky?site=brandsite&from=nav)
-    * [Cendence](http://www.dji.com/cn/cendence?site=brandsite&from=nav)
-    * [灵眸 Osmo 配件](http://www.dji.com/cn/osmo-accessories?site=brandsite&from=nav)
+    * [DJI 无线跟焦器](https://www.dji.com/cn/focus?site=brandsite&from=nav)
+    * [CrystalSky](https://www.dji.com/cn/crystalsky?site=brandsite&from=nav)
+    * [Cendence](https://www.dji.com/cn/cendence?site=brandsite&from=nav)
+    * [灵眸 Osmo 配件](https://www.dji.com/cn/osmo-accessories?site=brandsite&from=nav)
 
 [
 
 悟 Inspire 系列对比
 
-](http://www.dji.com/cn/products/compare-inspire?site=brandsite&from=nav)[
+](https://www.dji.com/cn/products/compare-inspire?site=brandsite&from=nav)[
 
 禅思 Zenmuse 系列对比
 
-](http://www.dji.com/cn/products/compare-zenmuse?site=brandsite&from=nav)[
+](https://www.dji.com/cn/products/compare-zenmuse?site=brandsite&from=nav)[
 
 如影 Ronin 系列对比
 
-](http://www.dji.com/cn/products/compare-ronin?site=brandsite&from=nav)[
+](https://www.dji.com/cn/products/compare-ronin?site=brandsite&from=nav)[
 
 配置如影 Ronin 套装
 
-](http://www.dji.com/cn/build-your-ronin?site=brandsite&from=nav)
+](https://www.dji.com/cn/build-your-ronin?site=brandsite&from=nav)
 
-  * [行业应用](http://enterprise.dji.com/cn?site=brandsite&from=nav)
+  * [行业应用](//enterprise.dji.com/cn?site=brandsite&from=nav)
 
-[农业](http://enterprise.dji.com/cn/agriculture?site=brandsite&from=nav)
+[农业](//enterprise.dji.com/cn/agriculture?site=brandsite&from=nav)
 
-[能源](http://enterprise.dji.com/cn/energy?site=brandsite&from=nav)
+[能源](//enterprise.dji.com/cn/energy?site=brandsite&from=nav)
 
-[公共安全](http://enterprise.dji.com/cn/civil-protection?site=brandsite&from=nav)
+[公共安全](//enterprise.dji.com/cn/civil-protection?site=brandsite&from=nav)
 
-[建筑](http://enterprise.dji.com/cn/construction?site=brandsite&from=nav)
+[建筑](//enterprise.dji.com/cn/construction?site=brandsite&from=nav)
 
-[基础设施](http://enterprise.dji.com/cn/infrastructure?site=brandsite&from=nav)
+[基础设施](//enterprise.dji.com/cn/infrastructure?site=brandsite&from=nav)
 
-[更多行业应用](http://enterprise.dji.com/cn?site=brandsite&from=nav)
+[更多行业应用](//enterprise.dji.com/cn?site=brandsite&from=nav)
 
 [解决方案
 
 高效作业，智能管理，降低植保成本
 
-](http://www.dji.com/cn/products/enterprise?site=brandsite&from=nav#solutions)
+](https://www.dji.com/cn/products/enterprise?site=brandsite&from=nav#solutions)
 
-    * [MG-1S](http://www.dji.com/cn/mg-1s?site=brandsite&from=nav)
-    * [MG-1](http://www.dji.com/cn/mg-1?site=brandsite&from=nav)
+    * [MG-1S](https://www.dji.com/cn/mg-1s?site=brandsite&from=nav)
+    * [MG-1](https://www.dji.com/cn/mg-1?site=brandsite&from=nav)
 
 [飞行平台
 
 用灵活机动的视野实现更多创新
 
-](http://www.dji.com/cn/products/enterprise?site=brandsite&from=nav#drones)
+](https://www.dji.com/cn/products/enterprise?site=brandsite&from=nav#drones)
 
-    * [经纬 Matrice 200 系列](http://www.dji.com/cn/matrice-200-series?site=brandsite&from=nav)
-    * [经纬 Matrice 600 Pro](http://www.dji.com/cn/matrice600-pro?site=brandsite&from=nav)
-    * [经纬 Matrice 100](http://www.dji.com/cn/matrice100?site=brandsite&from=nav)
+    * [经纬 Matrice 200 系列](https://www.dji.com/cn/matrice-200-series?site=brandsite&from=nav)
+    * [经纬 Matrice 600 Pro](https://www.dji.com/cn/matrice600-pro?site=brandsite&from=nav)
+    * [经纬 Matrice 100](https://www.dji.com/cn/matrice100?site=brandsite&from=nav)
 
 [负载系列
 
 解决信息搜集的核心挑战
 
-](http://www.dji.com/cn/products/enterprise?site=brandsite&from=nav#payloads)
+](https://www.dji.com/cn/products/enterprise?site=brandsite&from=nav#payloads)
 
-    * [禅思 Zenmuse XT](http://www.dji.com/cn/zenmuse-xt?site=brandsite&from=nav)
-    * [禅思 Zenmuse Z30](http://www.dji.com/cn/zenmuse-z30?site=brandsite&from=nav)
-    * [禅思 Zenmuse X5S](http://www.dji.com/cn/zenmuse-x5s?site=brandsite&from=nav)
-    * [禅思 Zenmuse X4S](http://www.dji.com/cn/zenmuse-x4s?site=brandsite&from=nav)
+    * [禅思 Zenmuse XT](https://www.dji.com/cn/zenmuse-xt?site=brandsite&from=nav)
+    * [禅思 Zenmuse Z30](https://www.dji.com/cn/zenmuse-z30?site=brandsite&from=nav)
+    * [禅思 Zenmuse X5S](https://www.dji.com/cn/zenmuse-x5s?site=brandsite&from=nav)
+    * [禅思 Zenmuse X4S](https://www.dji.com/cn/zenmuse-x4s?site=brandsite&from=nav)
 
 [软件服务
 
 专业级航线规划，让飞行任务更简单
 
-](http://www.dji.com/cn/products/enterprise?site=brandsite&from=nav#software)
+](https://www.dji.com/cn/products/enterprise?site=brandsite&from=nav#software)
 
-    * [大疆司空](http://www.dji.com/cn/flighthub?site=brandsite&from=nav)
-    * [地面站专业版](http://www.dji.com/cn/ground-station-pro?site=brandsite&from=nav)
+    * [大疆司空](https://www.dji.com/cn/flighthub?site=brandsite&from=nav)
+    * [地面站专业版](https://www.dji.com/cn/ground-station-pro?site=brandsite&from=nav)
 
 [配件
 
 选择更高的性能和定制功能
 
-](http://www.dji.com/cn/products/enterprise?site=brandsite&from=nav#enterprise-
+](https://www.dji.com/cn/products/enterprise?site=brandsite&from=nav#enterprise-
 accessories)
 
-    * [D-RTK](http://www.dji.com/cn/d-rtk?site=brandsite&from=nav)
-    * [Datalink-3](http://www.dji.com/cn/datalink-3?site=brandsite&from=nav)
-    * [Cendence](http://www.dji.com/cn/cendence?site=brandsite&from=nav)
-    * [妙算 Manifold](http://www.dji.com/cn/manifold?site=brandsite&from=nav)
-    * [视觉传感导航系统](http://www.dji.com/cn/guidance?site=brandsite&from=nav)
+    * [D-RTK](https://www.dji.com/cn/d-rtk?site=brandsite&from=nav)
+    * [Datalink-3](https://www.dji.com/cn/datalink-3?site=brandsite&from=nav)
+    * [Cendence](https://www.dji.com/cn/cendence?site=brandsite&from=nav)
+    * [妙算 Manifold](https://www.dji.com/cn/manifold?site=brandsite&from=nav)
+    * [视觉传感导航系统](https://www.dji.com/cn/guidance?site=brandsite&from=nav)
 
-  * [系统模块](http://www.dji.com/cn/products/components?site=brandsite&from=nav)
+  * [系统模块](https://www.dji.com/cn/products/components?site=brandsite&from=nav)
 
 [飞行控制器
 
 集智可靠，精准控制
 
-](http://www.dji.com/cn/products/components?site=brandsite&from=nav#flight-
+](https://www.dji.com/cn/products/components?site=brandsite&from=nav#flight-
 controller)
 
-    * [A3](http://www.dji.com/cn/a3?site=brandsite&from=nav)
-    * [N3](http://www.dji.com/cn/n3?site=brandsite&from=nav)
+    * [A3](https://www.dji.com/cn/a3?site=brandsite&from=nav)
+    * [N3](https://www.dji.com/cn/n3?site=brandsite&from=nav)
 
 [动力系统
 
 飞行动力源泉
 
-](http://www.dji.com/cn/products/components?site=brandsite&from=nav#propulsion-
+](https://www.dji.com/cn/products/components?site=brandsite&from=nav#propulsion-
 system)
 
-    * [E5000](http://www.dji.com/cn/e5000?site=brandsite&from=nav)
-    * [E2000](http://www.dji.com/cn/E2000?site=brandsite&from=nav)
-    * [Snail](http://www.dji.com/cn/Snail?site=brandsite&from=nav)
-    * [E305](http://www.dji.com/cn/E305?site=brandsite&from=nav)
+    * [E5000](https://www.dji.com/cn/e5000?site=brandsite&from=nav)
+    * [E2000](https://www.dji.com/cn/E2000?site=brandsite&from=nav)
+    * [Snail](https://www.dji.com/cn/Snail?site=brandsite&from=nav)
+    * [E305](https://www.dji.com/cn/E305?site=brandsite&from=nav)
 
 [传输系统
 
 看得远，看得清晰且操控精准
 
-](http://www.dji.com/cn/products/components?site=brandsite&from=nav#transmission)
+](https://www.dji.com/cn/products/components?site=brandsite&from=nav#transmission)
 
-    * [DJI Lightbridge 2](http://www.dji.com/cn/lightbridge-2?site=brandsite&from=nav)
-    * [DJI Lightbridge ](http://www.dji.com/cn/dji-lightbridge?site=brandsite&from=nav)
-    * [Datalink 3](http://www.dji.com/cn/datalink-3?site=brandsite&from=nav)
-    * [Datalink Pro](http://www.dji.com/cn/datalink-pro?site=brandsite&from=nav)
+    * [DJI Lightbridge 2](https://www.dji.com/cn/lightbridge-2?site=brandsite&from=nav)
+    * [DJI Lightbridge ](https://www.dji.com/cn/dji-lightbridge?site=brandsite&from=nav)
+    * [Datalink 3](https://www.dji.com/cn/datalink-3?site=brandsite&from=nav)
+    * [Datalink Pro](https://www.dji.com/cn/datalink-pro?site=brandsite&from=nav)
 
 [开发者
 
 为飞行开创更多可能
 
-](http://www.dji.com/cn/products/components?site=brandsite&from=nav#transmission)
+](https://www.dji.com/cn/products/components?site=brandsite&from=nav#transmission)
 
-    * [经纬 Matrice 100](http://www.dji.com/cn/matrice100?site=brandsite&from=nav)
-    * [妙算 Manifold](http://www.dji.com/cn/manifold?site=brandsite&from=nav)
-    * [视觉传感导航系统](http://www.dji.com/cn/guidance?site=brandsite&from=nav)
+    * [经纬 Matrice 100](https://www.dji.com/cn/matrice100?site=brandsite&from=nav)
+    * [妙算 Manifold](https://www.dji.com/cn/manifold?site=brandsite&from=nav)
+    * [视觉传感导航系统](https://www.dji.com/cn/guidance?site=brandsite&from=nav)
 
 [其他配件
 
 激发应用潜力
 
-](http://www.dji.com/cn/products/components?site=brandsite&from=nav#other-
+](https://www.dji.com/cn/products/components?site=brandsite&from=nav#other-
 accessories)
 
-    * [D-RTK](http://www.dji.com/cn/d-rtk?site=brandsite&from=nav)
-    * [iOSD MARK II](http://www.dji.com/cn/iosd-mark-ii?site=brandsite&from=nav)
-    * [Cendence](http://www.dji.com/cn/cendence?site=brandsite&from=nav)
+    * [D-RTK](https://www.dji.com/cn/d-rtk?site=brandsite&from=nav)
+    * [iOSD MARK II](https://www.dji.com/cn/iosd-mark-ii?site=brandsite&from=nav)
+    * [Cendence](https://www.dji.com/cn/cendence?site=brandsite&from=nav)
 
   * [探索精彩](javascript:;)
 
-    * [天空之城](https://www.skypixel.com?site=brandsite&from=nav)
-    * [大疆社区](http://bbs.dji.com?site=brandsite&from=nav)
-    * [精彩视频](http://www.dji.com/cn/showcase?site=brandsite&from=nav)
-    * [新闻中心](http://www.dji.com/cn/newsroom?site=brandsite&from=nav)
-    * [精彩活动](http://www.dji.com/cn/event?site=brandsite&from=nav)
-    * [招聘精英](https://we.dji.com/zh-CN?site=brandsite&from=nav)
+    * [天空之城](//www.skypixel.com?site=brandsite&from=nav)
+    * [大疆社区](//bbs.dji.com?site=brandsite&from=nav)
+    * [精彩视频](https://www.dji.com/cn/showcase?site=brandsite&from=nav)
+    * [新闻中心](https://www.dji.com/cn/newsroom?site=brandsite&from=nav)
+    * [精彩活动](https://www.dji.com/cn/event?site=brandsite&from=nav)
+    * [招聘精英](//we.dji.com/zh-CN?site=brandsite&from=nav)
 
-  * [服务与支持](http://www.dji.com/cn/support?site=brandsite&from=nav)
+  * [服务与支持](https://www.dji.com/cn/support?site=brandsite&from=nav)
 
-    * [产品支持](http://www.dji.com/cn/support/product?site=brandsite&from=nav)
-    * [维修服务](http://www.dji.com/cn/service/repair?site=brandsite&from=nav)
-    * [DJI CARE换新计划](http://www.dji.com/cn/service/djicare-refresh?site=brandsite&from=nav)
-    * [DJI CARE ](http://www.dji.com/cn/service/djicare?site=brandsite&from=nav)
-    * [DJI CIRCLE](https://circle.dji.com?site=brandsite&from=nav)
-    * [OSMO SHIELD](http://www.dji.com/cn/service/osmo-shield?site=brandsite&from=nav)
-    * [安全飞行指引](http://www.dji.com/cn/flysafe?site=brandsite&from=nav)
+    * [产品支持](https://www.dji.com/cn/support/product?site=brandsite&from=nav)
+    * [维修服务](https://www.dji.com/cn/service/repair?site=brandsite&from=nav)
+    * [DJI CARE换新计划](https://www.dji.com/cn/service/djicare-refresh?site=brandsite&from=nav)
+    * [DJI CARE ](https://www.dji.com/cn/service/djicare?site=brandsite&from=nav)
+    * [DJI CIRCLE](//circle.dji.com?site=brandsite&from=nav)
+    * [OSMO SHIELD](https://www.dji.com/cn/service/osmo-shield?site=brandsite&from=nav)
+    * [安全飞行指引](https://www.dji.com/cn/flysafe?site=brandsite&from=nav)
 
-  * [商城](http://store.dji.com/cn/?site=brandsite&from=nav)
+  * [商城](https://store.dji.com/cn/?site=brandsite&from=nav)
 
-[去结算](http://store.dji.com/cn//cart?site=brandsite&from=nav)
+[去结算](https://store.dji.com/cn//cart?site=brandsite&from=nav)
 
   * [](javascript:;)
   * [](https://accounts.dji.com/cn/user)
@@ -295,29 +295,29 @@ accessories)
 
 #### Chrome
 
-](http://www.google.com/chrome)
+](//www.google.com/chrome)
 
 [
 
 #### Firefox
 
-](http://www.firefox.com/)
+](//www.firefox.com/)
 
 [
 
 #### Safari
 
-](http://www.apple.com/safari/)
+](//www.apple.com/safari/)
 
 [
 
 #### Edge
 
-](https://www.microsoft.com/en-us/windows/microsoft-edge)
+](//www.microsoft.com/en-us/windows/microsoft-edge)
 
 ## 隐私权政策
 
-  * [首页](http://www.dji.com/cn)
+  * [首页](https://www.dji.com/cn)
   * 隐私权政策
 
 ### 说明
@@ -406,42 +406,42 @@ accessories)
 
 * * *
 
-如您想了解最新的《隐私权政策》，请登录大疆主页[www.dji.com](http://www.dji.com/cn/)并点击其下方隐私政策链接。
+如您想了解最新的《隐私权政策》，请登录大疆主页[www.dji.com](https://www.dji.com/cn/)并点击其下方隐私政策链接。
 
 热门产品分类
 
-  * [消费级](http://www.dji.com/cn/products/consumer?site=brandsite&from=footer)
-  * [专业级](http://www.dji.com/cn/products/professional?site=brandsite&from=footer)
-  * [行业级](http://www.dji.com/cn/products/enterprise?site=brandsite&from=footer)
-  * [系统模块](http://www.dji.com/cn/products/components?site=brandsite&from=footer)
+  * [消费级](https://www.dji.com/cn/products/consumer?site=brandsite&from=footer)
+  * [专业级](https://www.dji.com/cn/products/professional?site=brandsite&from=footer)
+  * [行业级](https://www.dji.com/cn/products/enterprise?site=brandsite&from=footer)
+  * [系统模块](https://www.dji.com/cn/products/components?site=brandsite&from=footer)
 
 购买渠道
 
-  * [官方商城](http://store.dji.com?site=brandsite&from=footer)
-  * [官方直营店](http://www.dji.com/cn/where-to-buy/flagship?site=brandsite&from=footer)
-  * [线下零售店](http://www.dji.com/cn/where-to-buy?site=brandsite&from=footer)
-  * [成为授权经销商](http://www.dji.com/cn/where-to-buy/partner?site=brandsite&from=footer)
+  * [官方商城](//store.dji.com?site=brandsite&from=footer)
+  * [官方直营店](https://www.dji.com/cn/where-to-buy/flagship?site=brandsite&from=footer)
+  * [线下零售店](https://www.dji.com/cn/where-to-buy?site=brandsite&from=footer)
+  * [成为授权经销商](https://www.dji.com/cn/where-to-buy/partner?site=brandsite&from=footer)
 
 帮助与支持
 
-  * [安全飞行指引](http://www.dji.com/cn/flysafe?site=brandsite&from=footer)
-  * [产品支持](http://www.dji.com/cn/support/product?site=brandsite&from=footer)
-  * [维修中心](http://www.dji.com/cn/service/repair?site=brandsite&from=footer)
-  * [购买指南](http://www.dji.com/cn/support/purchase?site=brandsite&from=footer)
-  * [售后服务政策](http://www.dji.com/cn/service/policy?site=brandsite&from=footer)
+  * [安全飞行指引](https://www.dji.com/cn/flysafe?site=brandsite&from=footer)
+  * [产品支持](https://www.dji.com/cn/support/product?site=brandsite&from=footer)
+  * [维修中心](https://www.dji.com/cn/service/repair?site=brandsite&from=footer)
+  * [购买指南](https://www.dji.com/cn/support/purchase?site=brandsite&from=footer)
+  * [售后服务政策](https://www.dji.com/cn/service/policy?site=brandsite&from=footer)
 
 探索精彩大疆
 
-  * [新闻中心](http://www.dji.com/cn/newsroom?site=brandsite&from=footer)
-  * [精彩视频](http://www.dji.com/cn/showcase?site=brandsite&from=footer)
-  * [精彩活动](http://www.dji.com/cn/event?site=brandsite&from=footer)
-  * [大疆公益](http://citizenship.dji.com?site=brandsite&from=footer)
+  * [新闻中心](https://www.dji.com/cn/newsroom?site=brandsite&from=footer)
+  * [精彩视频](https://www.dji.com/cn/showcase?site=brandsite&from=footer)
+  * [精彩活动](https://www.dji.com/cn/event?site=brandsite&from=footer)
+  * [大疆公益](//citizenship.dji.com?site=brandsite&from=footer)
 
 社区
 
-  * [天空之城](https://www.skypixel.com?site=brandsite&from=footer)
-  * [大疆社区](http://bbs.dji.com/?site=brandsite&from=footer)
-  * [开发者](https://developer.dji.com/cn?site=brandsite&from=footer)
+  * [天空之城](//www.skypixel.com?site=brandsite&from=footer)
+  * [大疆社区](//bbs.dji.com/?site=brandsite&from=footer)
+  * [开发者](//developer.dji.com/cn?site=brandsite&from=footer)
 
 订阅我们
 
@@ -449,15 +449,15 @@ accessories)
 
  __
 
-[](http://www.dji.com/cn/)
+[](https://www.dji.com/cn/)
 
-  * [关于我们](http://www.dji.com/cn/company?site=brandsite&from=footer)
-  * [联系我们](http://www.dji.com/cn/contact?site=brandsite&from=footer)
-  * [招聘精英](https://we.dji.com/zh-CN/?site=brandsite&from=footer)
-  * [市场合作](http://www.dji.com/cn/business?site=brandsite&from=footer)
-  * [RoboMaster](https://www.robomaster.com/zh-CN?site=brandsite&from=footer)
-  * [大疆传媒](http://studiochina.dji.com/cn?site=brandsite&from=footer)
-  * [慧飞培训中心](https://www.uastc.com/?site=brandsite&from=footer)
+  * [关于我们](https://www.dji.com/cn/company?site=brandsite&from=footer)
+  * [联系我们](https://www.dji.com/cn/contact?site=brandsite&from=footer)
+  * [招聘精英](//we.dji.com/zh-CN/?site=brandsite&from=footer)
+  * [市场合作](https://www.dji.com/cn/business?site=brandsite&from=footer)
+  * [RoboMaster](//www.robomaster.com/zh-CN?site=brandsite&from=footer)
+  * [大疆传媒](//studiochina.dji.com/cn?site=brandsite&from=footer)
+  * [慧飞培训中心](//www.uastc.com/?site=brandsite&from=footer)
 
   * [![优酷](//www1.djicdn.com/uploads/footer_social/cover/122/d94c92d6a0e1f9447b8e3f51c77abf87.png)](https://he.youku.com/dji)
   * [![微博](//www1.djicdn.com/uploads/footer_social/cover/121/cdde793b641dc106ac83801c6e460367.png)](http://weibo.com/DJIChina)
@@ -465,27 +465,31 @@ accessories)
 
 Copyright © 2017 DJI 大疆创新 版权所有
 
-  * [隐私权政策](http://www.dji.com/cn/policy?site=brandsite&from=footer)
-  * [使用条款](http://www.dji.com/cn/terms?site=brandsite&from=footer)
-  * [疆湖名录](https://we.dji.com/dismissals/?site=brandsite&from=footer)
-  * [网站地图](http://www.dji.com/cn/sitemap?site=brandsite&from=footer)
+  * [隐私权政策](https://www.dji.com/cn/policy?site=brandsite&from=footer)
+  * [使用条款](https://www.dji.com/cn/terms?site=brandsite&from=footer)
+  * [疆湖名录](//we.dji.com/dismissals/?site=brandsite&from=footer)
+  * [网站地图](https://www.dji.com/cn/sitemap?site=brandsite&from=footer)
 
-网站问题反馈？[点击这里](http://www.dji.com/cn/feedback?site=brandsite&from=footer)
+网站问题反馈？[点击这里](https://www.dji.com/cn/feedback?site=brandsite&from=footer)
 
 简体中文 __
 
-  * [English](http://www.dji.com)
-  * [Deutsch](http://www.dji.com/de)
-  * [简体中文](http://www.dji.com/cn)
-  * [繁體中文](http://www.dji.com/zh-tw)
-  * [日本語](http://www.dji.com/jp)
-  * [한국어](http://www.dji.com/kr)
-  * [Français](http://www.dji.com/fr)
-  * [Español](http://www.dji.com/es)
-  * [Pусский](http://www.dji.com/ru)
+  * [English](/)
+  * [Deutsch](/de)
+  * [简体中文](/cn)
+  * [繁體中文](/zh-tw)
+  * [日本語](/jp)
+  * [한국어](/kr)
+  * [Français](/fr)
+  * [Español](/es)
+  * [Pусский](/ru)
   * 简体中文 __
 
 本网站直接或间接向消费者推销商品或者服务的商业宣传均属于“广告”（包装及参数、售后保障等商品信息除外）
+
+![](//stats.ipinyou.com/adv.gif?a=hNs.HV.s82Wxvr8lamKCgE49CPMO0&e=)e="display:none;"/>
+
+��传均属于“广告”（包装及参数、售后保障等商品信息除外）
 
 ![](//stats.ipinyou.com/adv.gif?a=hNs.HV.s82Wxvr8lamKCgE49CPMO0&e=)
 
