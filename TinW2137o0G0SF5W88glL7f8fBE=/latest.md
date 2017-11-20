@@ -46,10 +46,10 @@
 
 [二维码](//d.nuomi.com/?1009764s)
 
-  * [我的订单](//www.nuomi.com/uc/order/order?status=all&_=1510665614)
+  * [我的订单](//www.nuomi.com/uc/order/order?status=all&_=1511149235)
   * [我的糯米](//www.nuomi.com/uc/order/order?status=all)
 
-[我的订单](//www.nuomi.com/uc/order/order?status=all&_=1510665614)[选座订单](//www.nuomi.com/uc/order/morders?orderStatus=all)[我的收藏](//www.nuomi.com/uc/collection/online)[我的评价](//www.nuomi.com/uc/comment/not)[帐户余额](//baifubao.baidu.com/jump?uri=%2Fuser%2F0%2Fmy_bfb%2F0&domain=https%3A%2F%2Fwww.baifubao.com)[我的余额](//www.nuomi.com/uc/hongbao/list?status=1&type=2)[我的优惠券](//www.nuomi.com/uc/giftcard/find?status=1)[帐户设置](//www.nuomi.com/uc/user/userinfo)[我的百度](http://i.baidu.com/?from=nuomi)
+[我的订单](//www.nuomi.com/uc/order/order?status=all&_=1511149235)[选座订单](//www.nuomi.com/uc/order/morders?orderStatus=all)[我的收藏](//www.nuomi.com/uc/collection/online)[我的评价](//www.nuomi.com/uc/comment/not)[帐户余额](//baifubao.baidu.com/jump?uri=%2Fuser%2F0%2Fmy_bfb%2F0&domain=https%3A%2F%2Fwww.baifubao.com)[我的余额](//www.nuomi.com/uc/hongbao/list?status=1&type=2)[我的优惠券](//www.nuomi.com/uc/giftcard/find?status=1)[帐户设置](//www.nuomi.com/uc/user/userinfo)[我的百度](http://i.baidu.com/?from=nuomi)
 
   * 最近浏览
 
@@ -71,9 +71,9 @@
 
 __
 
-  * [浦东新区餐饮](//sh.nuomi.com/search?k=%E6%B5%A6%E4%B8%9C%E6%96%B0%E5%8C%BA%E9%A4%90%E9%A5%AE&rid=2255fedf094c8076707cdc750c0f2ce9)
-  * [情侣私人影院](//sh.nuomi.com/search?k=%E6%83%85%E4%BE%A3%E7%A7%81%E4%BA%BA%E5%BD%B1%E9%99%A2&rid=2255fedf094c8076707cdc750c0f2ce9)
-  * [拍照](//sh.nuomi.com/search?k=%E6%8B%8D%E7%85%A7&rid=2255fedf094c8076707cdc750c0f2ce9)
+  * [浦东新区餐饮](//sh.nuomi.com/search?k=%E6%B5%A6%E4%B8%9C%E6%96%B0%E5%8C%BA%E9%A4%90%E9%A5%AE&rid=c7fea67f2d8839df33127174e4ca27ed)
+  * [经济型酒店](//sh.nuomi.com/search?k=%E7%BB%8F%E6%B5%8E%E5%9E%8B%E9%85%92%E5%BA%97&rid=c7fea67f2d8839df33127174e4ca27ed)
+  * [欢乐谷门票](//sh.nuomi.com/search?k=%E6%AC%A2%E4%B9%90%E8%B0%B7%E9%97%A8%E7%A5%A8&rid=c7fea67f2d8839df33127174e4ca27ed)
 
 [ __ 未消费，随便退！ __ 消费不满意先行赔付！ __
 过期自动退！](//www.nuomi.com/pcindex/about/promise)
@@ -104,7 +104,6 @@ __
     * [小龙虾](//sh.nuomi.com/2050)
     * [酒吧](//sh.nuomi.com/2051)
     * [粥店](//sh.nuomi.com/2052)
-    * [今日新单](//sh.nuomi.com/1000002)
 
 ### 中国菜
 
@@ -140,12 +139,12 @@ __
 
     * [正义联盟](//dianying.nuomi.com/movie/detail?movieId=95303)
     * [东方快车谋杀案](//dianying.nuomi.com/movie/detail?movieId=95278)
-    * [雷神3：诸神黄昏](//dianying.nuomi.com/movie/detail?movieId=95292)
-    * [狂兽](//dianying.nuomi.com/movie/detail?movieId=15538)
-    * [七十七天](//dianying.nuomi.com/movie/detail?movieId=95260)
     * [降魔传](//dianying.nuomi.com/movie/detail?movieId=95133)
     * [暴雪将至](//dianying.nuomi.com/movie/detail?movieId=95291)
-    * [精灵宝可梦：波尔凯尼恩与机巧的玛机雅娜](//dianying.nuomi.com/movie/detail?movieId=95272)
+    * [雷神3：诸神黄昏](//dianying.nuomi.com/movie/detail?movieId=95292)
+    * [恐袭波士顿](//dianying.nuomi.com/movie/detail?movieId=95319)
+    * [英雄本色](//dianying.nuomi.com/movie/detail?movieId=84137)
+    * [追捕](//dianying.nuomi.com/movie/detail?movieId=10181)
 
 ### 热门院线
 
@@ -591,4 +590,6 @@ xx1xbK/static/common/widget/footer/imgs/police_logo_2aa5dfa.png)
 京公网安备 11000002000001号
 
 ](http://www.beian.gov.cn/portal/registerSystemInfo?recordcode=11000002000001)
+
+httpslink) { httpslink.init(); }); }(); var _trace_page_logid = 1214730045;
 
