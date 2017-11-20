@@ -92,7 +92,8 @@ Tencent](http://www.tencent.com/index_e.shtml) |
 [服务协议](http://www.qq.com/contract.shtml) |
 [隐私政策](http://www.qq.com/privacy.htm) | [开放平台](http://open.qq.com/) |
 [广告服务](http://www.tencentmind.com/) | [腾讯招聘](http://hr.tencent.com/) |
-[腾讯公益](http://gongyi.qq.com/) | [客服中心](http://service.qq.com/) |
+[腾讯公益](http://gongyi.qq.com/) | [腾讯云](https://cloud.tencent.com/?from=txwdibu)
+| [客服中心](http://service.qq.com/) |
 [举报中心](http://news.qq.com/zt2014/2014qtnews/ccybspxd.htm
 
 ) | [网站导航](http://www.qq.com/map/)
